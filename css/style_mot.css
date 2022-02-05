@@ -1,0 +1,21 @@
+h1{
+   color: rgb(247, 141, 3);
+   font-weight: bold;
+   
+}
+.paragraphe{
+    font-size: large;
+    text-align: justify;
+    color: black;
+}
+.legd{
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
+.lienform:hover{
+    text-decoration-color: red;
+color: red;
+}
+.single{
+    text-align: center;
+}

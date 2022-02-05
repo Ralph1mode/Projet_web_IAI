@@ -1,0 +1,135 @@
+
+.form{
+    background-color: white;
+    text-align: center;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.h3ind{
+    color: white;
+    font-weight: bolder;
+}
+.btn{
+    padding-right: 40px;
+    padding-left: 40px;
+    
+}
+.btn:hover{
+    background-color: transparent;
+    color: blue;
+ }
+
+h5{
+    text-align: center;
+
+}
+
+.connect{
+   align-items: right;
+   background-color: transparent;
+   border-color: white;
+   color: white;
+}
+.connect:hover{
+    background-color: white;
+    color: blue;
+    font-weight: bold;
+}
+.bar{
+    padding-bottom: 10%;
+}
+.qts{
+   
+    margin-top: 3%;
+    padding-top: 3px;
+}
+.tbn{
+    width: 42%;
+}
+.tbn:hover{
+    background-color:transparent;
+    
+    color: blue;
+    font-weight: bold;
+}
+.im{
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 10px 10px 10px 10px rgb(77, 75, 75);
+    align-items: center;
+   
+}
+
+
+/* les arrengements du footer */
+footer{
+    margin-top: 10%;
+}
+/* les arrangements de la barre de navigation membre */
+.h3mb{
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: bolder;
+}
+.spn{
+    color:rgb(255, 238, 0);
+}
+.bar{
+    background-color: blue;
+}
+.togo{
+    color: red;
+    font-weight: bolder;
+}
+.fondm{
+    background-color: rgb(247, 126, 220);
+}
+.lm{
+    font-weight: bolder;
+    color: white;
+}
+/* style du corp de la page membre */
+.titre{
+    color:orange;
+}
+.fond2{
+    background-image: image(img/online-dating-570216_1920);
+}
+
+
+
+/* style de la page d'inscription le formulaire */
+
+    
+
+/* le responsive style */
+/* Pour résolution d'écran d'au maximum de 480px (smartphone) */
+@media only screen and (max-width: 480px) {
+     
+}
+ 
+/* Pour une résolution d'écran d'au maximum 768px (tablette) */
+@media only screen and (max-width: 768px) {
+ 
+}
+ 
+/* Pour une résolution d'écran d'au minimum 768px (tablette et +) */
+@media only screen and (min-width: 768px) {
+ 
+}
+ 
+/* Pour une résolution d'écran d'au minimum 992px (tablette, ordinateur et +) */
+@media only screen and (min-width: 992px) {
+ 
+}
+ 
+/* Tu peux même dire que tu veux afficher une propriété entre deux largeur */
+@media only screen and (min-width: 480px) and (max-width: 992px) {
+ 
+}
+/* =========acceuil====== */
+h1.bienvenu{
+    margin-left: 20%;
+}
+.sec1{
+    margin-top:10%;
+}

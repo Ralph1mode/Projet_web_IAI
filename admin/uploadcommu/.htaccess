@@ -1,0 +1,6 @@
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_URI} !\.(pdf)$
+
+RewriteRule .*$ - [F]
